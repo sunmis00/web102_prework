@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='../preWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='preWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [QuickTime Player](https://support.apple.com/en-us/106375) for screen recording and [Gifski](https://gif.ski) for conversion to GIF format
